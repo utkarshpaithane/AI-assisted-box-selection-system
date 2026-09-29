@@ -56,7 +56,7 @@ box_selection_system/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/utkarshpaithane/AI-assisted-box-selection-system.git
 cd AI-assisted-box-selection-system
 ```
 
